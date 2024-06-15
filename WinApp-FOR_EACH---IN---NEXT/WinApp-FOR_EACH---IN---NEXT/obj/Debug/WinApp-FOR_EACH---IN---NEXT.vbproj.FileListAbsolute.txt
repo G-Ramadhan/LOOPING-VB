@@ -1,0 +1,10 @@
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-FOR_EACH---IN---NEXT\WinApp-FOR_EACH---IN---NEXT\bin\Debug\WinApp-FOR_EACH---IN---NEXT.exe.config
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-FOR_EACH---IN---NEXT\WinApp-FOR_EACH---IN---NEXT\bin\Debug\WinApp-FOR_EACH---IN---NEXT.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-FOR_EACH---IN---NEXT\WinApp-FOR_EACH---IN---NEXT\bin\Debug\WinApp-FOR_EACH---IN---NEXT.pdb
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-FOR_EACH---IN---NEXT\WinApp-FOR_EACH---IN---NEXT\bin\Debug\WinApp-FOR_EACH---IN---NEXT.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-FOR_EACH---IN---NEXT\WinApp-FOR_EACH---IN---NEXT\obj\Debug\WinApp_FOR_EACH___IN___NEXT.Form1.resources
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-FOR_EACH---IN---NEXT\WinApp-FOR_EACH---IN---NEXT\obj\Debug\WinApp_FOR_EACH___IN___NEXT.Resources.resources
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-FOR_EACH---IN---NEXT\WinApp-FOR_EACH---IN---NEXT\obj\Debug\WinApp-FOR_EACH---IN---NEXT.vbproj.GenerateResource.Cache
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-FOR_EACH---IN---NEXT\WinApp-FOR_EACH---IN---NEXT\obj\Debug\WinApp-FOR_EACH---IN---NEXT.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-FOR_EACH---IN---NEXT\WinApp-FOR_EACH---IN---NEXT\obj\Debug\WinApp-FOR_EACH---IN---NEXT.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-FOR_EACH---IN---NEXT\WinApp-FOR_EACH---IN---NEXT\obj\Debug\WinApp-FOR_EACH---IN---NEXT.pdb

@@ -1,0 +1,10 @@
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-DO_WHILE---LOOP\WinApp-DO_WHILE---LOOP\bin\Debug\WinApp-DO_WHILE---LOOP.exe.config
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-DO_WHILE---LOOP\WinApp-DO_WHILE---LOOP\bin\Debug\WinApp-DO_WHILE---LOOP.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-DO_WHILE---LOOP\WinApp-DO_WHILE---LOOP\bin\Debug\WinApp-DO_WHILE---LOOP.pdb
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-DO_WHILE---LOOP\WinApp-DO_WHILE---LOOP\bin\Debug\WinApp-DO_WHILE---LOOP.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-DO_WHILE---LOOP\WinApp-DO_WHILE---LOOP\obj\Debug\WinApp_DO_WHILE___LOOP.Form1.resources
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-DO_WHILE---LOOP\WinApp-DO_WHILE---LOOP\obj\Debug\WinApp_DO_WHILE___LOOP.Resources.resources
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-DO_WHILE---LOOP\WinApp-DO_WHILE---LOOP\obj\Debug\WinApp-DO_WHILE---LOOP.vbproj.GenerateResource.Cache
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-DO_WHILE---LOOP\WinApp-DO_WHILE---LOOP\obj\Debug\WinApp-DO_WHILE---LOOP.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-DO_WHILE---LOOP\WinApp-DO_WHILE---LOOP\obj\Debug\WinApp-DO_WHILE---LOOP.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-DO_WHILE---LOOP\WinApp-DO_WHILE---LOOP\obj\Debug\WinApp-DO_WHILE---LOOP.pdb
