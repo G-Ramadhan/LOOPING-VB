@@ -1,0 +1,10 @@
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-While\WinApp-While\bin\Debug\WinApp-While.exe.config
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-While\WinApp-While\bin\Debug\WinApp-While.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-While\WinApp-While\bin\Debug\WinApp-While.pdb
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-While\WinApp-While\bin\Debug\WinApp-While.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-While\WinApp-While\obj\Debug\WinApp_While.Form1.resources
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-While\WinApp-While\obj\Debug\WinApp_While.Resources.resources
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-While\WinApp-While\obj\Debug\WinApp-While.vbproj.GenerateResource.Cache
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-While\WinApp-While\obj\Debug\WinApp-While.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-While\WinApp-While\obj\Debug\WinApp-While.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-While\WinApp-While\obj\Debug\WinApp-While.pdb

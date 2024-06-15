@@ -1,0 +1,10 @@
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-MultiNumberLevel\WinApp-MultiNumberLevel\bin\Debug\WinApp-MultiNumberLevel.exe.config
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-MultiNumberLevel\WinApp-MultiNumberLevel\bin\Debug\WinApp-MultiNumberLevel.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-MultiNumberLevel\WinApp-MultiNumberLevel\bin\Debug\WinApp-MultiNumberLevel.pdb
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-MultiNumberLevel\WinApp-MultiNumberLevel\bin\Debug\WinApp-MultiNumberLevel.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-MultiNumberLevel\WinApp-MultiNumberLevel\obj\Debug\WinApp_MultiNumberLevel.Form1.resources
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-MultiNumberLevel\WinApp-MultiNumberLevel\obj\Debug\WinApp_MultiNumberLevel.Resources.resources
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-MultiNumberLevel\WinApp-MultiNumberLevel\obj\Debug\WinApp-MultiNumberLevel.vbproj.GenerateResource.Cache
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-MultiNumberLevel\WinApp-MultiNumberLevel\obj\Debug\WinApp-MultiNumberLevel.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-MultiNumberLevel\WinApp-MultiNumberLevel\obj\Debug\WinApp-MultiNumberLevel.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LOOPING\WinApp-MultiNumberLevel\WinApp-MultiNumberLevel\obj\Debug\WinApp-MultiNumberLevel.pdb
